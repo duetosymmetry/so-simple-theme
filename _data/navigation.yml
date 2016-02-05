@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Home
+  url: /
+
 - title: About
   url: /about/
 
@@ -11,6 +14,3 @@
 
 - title: Theme Setup
   url: /theme-setup/
-
-- title: Search
-  url: /search/
