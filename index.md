@@ -8,7 +8,14 @@ image:
   feature:# cahill.jpg
 ---
 
-Short blurb about the workshop
+Precision tests of general relativity are being developed
+enthusiastically on many fronts, but there is not enough communication
+between researchers working across different distance scales --- the
+observables, parametrization frameworks, and even alternative theories
+are different and hard to compare. The aim of this workshop is to
+develop a sort of "lingua franca" for those working on cosmological
+and strong-field tests of gravity, the eventual aim being the ability
+to usefully interpret observational results across the two fields.
 
 ## Invited speakers
 
