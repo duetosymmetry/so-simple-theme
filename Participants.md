@@ -20,7 +20,7 @@ Lecturers:
 * Norbert Wex<sup>†</sup> (MPIfR, Bonn)
 * Lam Hui<sup>†</sup> (Columbia)
 * Thomas Sotiriou<sup>†</sup> (Nottingham)
-* Kazuya Koyama<sup>†</sup> (ICG Portsmouth)
+* Kazuya Koyama (ICG Portsmouth)
 * Jeremy Sakstein<sup>†</sup> (DAMTP, Cambridge)
 * ...
 
