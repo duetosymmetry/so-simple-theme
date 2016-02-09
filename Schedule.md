@@ -87,7 +87,7 @@ Coming soon...
       <td style="text-align: left"> </td>
       <td style="text-align: left">Tessa Baker</td>
       <td style="text-align: left">TBD</td>
-      <td style="text-align: left">TBD</td>
+      <td style="text-align: left">Thomas Sotiriou</td>
     </tr>
   </tbody>
   <tbody>

@@ -19,7 +19,7 @@ Lecturers:
 * Vitor Cardoso (IST Lisbon)
 * Norbert Wex<sup>†</sup> (MPIfR, Bonn)
 * Lam Hui<sup>†</sup> (Columbia)
-* Thomas Sotiriou<sup>†</sup> (Nottingham)
+* Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
 * Jeremy Sakstein<sup>†</sup> (DAMTP, Cambridge)
 * ...
