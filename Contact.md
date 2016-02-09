@@ -10,7 +10,7 @@ image:
 
 Questions or comments?
 You can email the organizers at
-[unifyingGRtests@tapir.caltech.edu](mailto:unifyingGRtests@tapir.caltech.edu).
+[unifying-gr-tests@tapir.caltech.edu](mailto:unifying-gr-tests@tapir.caltech.edu).
 
 The organizers are:
 

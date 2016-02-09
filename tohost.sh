@@ -4,4 +4,4 @@ cd "$( dirname "${BASH_SOURCE[0]}" )"
 
 cd _site
 
-rsync -crvz --delete . unifyingGRtests:~/public_html/
+rsync -crvz --delete . unifying-gr-tests:~/public_html/
