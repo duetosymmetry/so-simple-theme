@@ -21,7 +21,7 @@ Lecturers:
 * Lam Hui<sup>†</sup> (Columbia)
 * Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
-* Jeremy Sakstein<sup>†</sup> (DAMTP, Cambridge)
+* Jeremy Sakstein (DAMTP, Cambridge)
 * ...
 
 †=to be confirmed

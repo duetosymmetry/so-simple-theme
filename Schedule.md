@@ -56,7 +56,7 @@ Coming soon...
       <td style="text-align: left"> </td>
       <td style="text-align: left">Ira Rothstein</td>
       <td style="text-align: left">Kent Yagi</td>
-      <td style="text-align: left">TBD</td>
+      <td style="text-align: left">Jeremy Sakstein, TBD</td>
     </tr>
     <tr>
       <td style="text-align: left"> </td>
