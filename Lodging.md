@@ -16,6 +16,8 @@ most likely at the
 and/or the
 [Saga Motor Hotel](http://www.thesagamotorhotel.com/).
 More information will be available here.
+Please let us know if you would like one of these rooms, so that we
+may estimate the number to ask for.
 
 <!--
 
