@@ -8,4 +8,6 @@ image:
   feature:# bridge.jpg
 ---
 
-Coming soon...
+The workshop will take place at the
+[Keck Institute for Space Studies](http://kiss.caltech.edu/) on the
+Caltech campus. This page will be updated soon.
