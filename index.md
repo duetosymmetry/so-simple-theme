@@ -40,3 +40,12 @@ The provisional list of invited speakers:
 * [Olivier Doré](http://olivierdore.net/)
 * [Jérôme Gleyzes](https://science.jpl.nasa.gov/people/Gleyzes/)
 * [Leo C. Stein](https://duetosymmetry.com/)
+
+## Support
+
+We gratefully acknowledge the support of the [Walter Burke Institute for Theoretical Physics](https://burkeinstitute.caltech.edu/).
+
+<p>
+<img src="{{ site.url }}/images/burke_institute_logo-s.jpg" alt="" class="image-pull-right" style="width: 250px" />
+<img src="{{ site.url }}/images/Caltech_LOGO-Orange_RGB.png" alt="" class="image-pull-right" style="width: 250px" />
+</p>
