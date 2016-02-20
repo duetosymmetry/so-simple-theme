@@ -26,12 +26,12 @@ Pasadena area and moving around Los Angeles in the
 **Fly-Away Bus with MetroRail**: Go to Ground Transportation Level and
   look for the “Fly-Away Bus” sign along the curb. Take the bus that
   goes to Union Station. Once at Union Station you can buy your bus
-  ticket for USD 8TODO (debit and credit cards only, no cash unless booked
+  ticket for USD 9 (debit and credit cards only, no cash unless booked
   [online](https://efleet.digital-dispatch.com/bauerslax/) in advance)
   and present it to the driver to retrieve you luggage. Then, enter
   Union Station and take the Metro Gold Line north to Pasadena. You
   will need to buy a TAP card at any of the kiosks there and add
-  USD 1.50TODO value to cover your metro fare to Pasadena. If staying at
+  USD 1.75 value to cover your metro fare to Pasadena. If staying at
   the Vagabond Inn you will want to exit at the Lake Station. If
   staying at the Saga Motor Hotel you will want to exit at the Allen
   Station. Please see the
