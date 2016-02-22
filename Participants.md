@@ -31,7 +31,13 @@ page.
 
 * Niayesh Afshordi (Perimeter Institute)
 * Enrico Barausse (IAP, Paris)
+* Claudia de Rham (CWRU)
+* Leonardo Gualtieri (Sapienza)
+* Paolo Pani<sup>†</sup> (Sapienza)
 * Ulrich Sperhake (DAMTP, Cambridge)
+* Chris Van Den Broeck (Nikhef)
 * Nicolás Yunes (MSU)
 * Miguel Zumalacárregui (Nordita)
 * More soon!
+
+†=to be confirmed
