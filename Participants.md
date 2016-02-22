@@ -31,6 +31,7 @@ page.
 
 * Niayesh Afshordi (Perimeter Institute)
 * Enrico Barausse (IAP, Paris)
+* Clare Burrage (Nottingham)
 * Claudia de Rham (CWRU)
 * Leonardo Gualtieri (Sapienza)
 * Paolo Pani<sup>†</sup> (Sapienza)
