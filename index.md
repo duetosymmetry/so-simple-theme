@@ -45,7 +45,11 @@ The provisional list of invited speakers:
 
 We gratefully acknowledge the support of the [Walter Burke Institute for Theoretical Physics](https://burkeinstitute.caltech.edu/).
 
-<p>
-<img src="{{ site.url }}/images/burke_institute_logo-s.jpg" alt="" class="image-pull-right" style="width: 250px" />
-<img src="{{ site.url }}/images/Caltech_LOGO-Orange_RGB.png" alt="" class="image-pull-right" style="width: 250px" />
-</p>
+<figure class="half">
+<a href="https://burkeinstitute.caltech.edu/">
+<img src="{{ site.url }}/images/burke_institute_logo.png" />
+</a>
+<a href="https://www.caltech.edu/">
+<img src="{{ site.url }}/images/Caltech_LOGO-Orange_RGB.png" />
+</a>
+</figure>
