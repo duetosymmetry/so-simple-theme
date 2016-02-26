@@ -104,7 +104,7 @@ Coming soon...
     </tr>
     <tr>
       <td style="text-align: left"> </td>
-      <td style="text-align: left">TBD</td>
+      <td style="text-align: left">Norbert Wex</td>
       <td style="text-align: left">Kazuya Koyama</td>
       <td style="text-align: left"> </td>
     </tr>

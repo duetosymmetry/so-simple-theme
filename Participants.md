@@ -18,7 +18,7 @@ page.
 * Tessa Baker (U Penn)
 * Kent Yagi (Princeton)
 * Vitor Cardoso (IST Lisbon)
-* Norbert Wex<sup>†</sup> (MPIfR, Bonn)
+* Norbert Wex (MPIfR, Bonn)
 * Lam Hui<sup>†</sup> (Columbia)
 * Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
