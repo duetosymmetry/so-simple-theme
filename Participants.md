@@ -34,6 +34,7 @@ page.
 * Clare Burrage (Nottingham)
 * Claudia de Rham (CWRU)
 * Leonardo Gualtieri (Sapienza)
+* Lavinia Heisenberg (ETH Zürich)
 * Paolo Pani<sup>†</sup> (Sapienza)
 * Ulrich Sperhake (DAMTP, Cambridge)
 * Chris Van Den Broeck (Nikhef)
