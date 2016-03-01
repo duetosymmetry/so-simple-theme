@@ -36,6 +36,7 @@ page.
 * Leonardo Gualtieri (Sapienza)
 * Lavinia Heisenberg (ETH Zürich)
 * Bhuvnesh Jain (U Penn)
+* David Langlois (GRECO/IAP, Paris)
 * Paolo Pani<sup>†</sup> (Sapienza)
 * Levon Pogosian (SFU)
 * Ulrich Sperhake (DAMTP, Cambridge)
