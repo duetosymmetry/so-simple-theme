@@ -10,45 +10,39 @@ image:
 
 # Blocked rooms
 
-We will reserve a block of rooms closer to the date of the workshop,
-most likely at the
-[Vagabond Inn](http://www.vagabondinn.com/california/vagabond-inn-pasadena.aspx)
-and/or the
+We have reserved two block of rooms: one at the
+[Vagabond Inn](http://www.vagabondinn.com/california/vagabond-inn-pasadena.aspx),
+and one at the
 [Saga Motor Hotel](http://www.thesagamotorhotel.com/).
-More information will be available here.
-Please let us know if you would like one of these rooms, so that we
-may estimate the number to ask for.
 
-<!--
+* **Deadline**: The deadline for booking a room in either of these
+blocks is **July 1**.  After that date, the blocked rooms will be
+released, so may or may not still be available after the July 1
+deadline.
+* **Check-in**: The earliest check-in date is **July 18** (one day
+  before the workshop).
+* **Check-out**: The latest check-out date is **July 22** (one day
+  after the workshop).
 
-We have blocked 20 double rooms at the
-[Vagabond Inn](http://www.vagabondinn.com/california/vagabond-inn-pasadena.aspx)
-with a booking deadline of TODO. In order to book one of the rooms and
-benefit from the reduced rate of USD TODO per night you will have to
-phone the Vagabond Inn at [++1 626-449-3170](tel:++1 626-449-3170) and
-tell them that the booking is for Unifying GR tests. The earliest
-arrival date in the reserved block is TODO and the latest departure
-date is TODO
+Phone to make a reservation, and ask for the "UTGR Workshop."
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Vagabond+Inn+Executive+Pasadena,+East+Colorado+Boulevard,+Pasadena,+CA&amp;daddr=1216+E+California+Blvd,+California+Institute+of+Technology,+Pasadena,+CA+91125&amp;hl=en&amp;geocode=FUMHCQIdr4r1-CEGkCOqwhMTwCmXX-XzWsPCgDEGkCOqwhMTwA%3BFfLeCAIdoIr1-CmbBpzKp8TCgDF6t1MLE5pudA&amp;aq=0&amp;oq=Vaga&amp;sll=34.140918,-118.125451&amp;sspn=0.014652,0.018797&amp;dirflg=w&amp;doflg=ptk&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=34.140925,-118.125455&amp;spn=0.010031,0.001064&amp;z=15&amp;output=embed"></iframe>
+[Saga Motor Hotel](http://www.thesagamotorhotel.com/) \\
+[1633 E. Colorado Blvd. \\
+Pasadena, CA 91106](https://www.google.com/maps/place/Saga+Motor+Hotel/@34.1420519,-118.1261278,16.11z/data=!4m2!3m1!1s0x80c2c35392ce22b9:0x467ecec3429d621) \\
+Preferred reservation line: [(626) 795-0431](tel:1-626-795-0431)
 
-A second set of TODO single and TODO double rooms has been blocked at
-the [Saga Motor Hotel](http://www.thesagamotorhotel.com/). TODO of the
-double rooms are poolside rooms. Room rates range from USD TODO+tax
-(single), USD TODO+tax (double), and USD TODO+tax (poolside double)
-and rooms are are available by phoning the Saga
-[++1 626-795-0431](tel:++1 626-795-0431) ([800-793-7242](tel:
-800-793-7242) toll free) and mentioning "Unifying GR tests" or by
-booking online at the
-[Saga's Caltech site, here](http://www.thesagamotorhotel.com/caltech.asp). If
-booking online, "unifyingGRtests" must be entered in the comments
-box. You will have to book by the booking deadline of TODO. The block
-on the rooms is TODO through TODO, July TODO.
+[Vagabond Inn](http://www.vagabondinn.com/california/vagabond-inn-pasadena.aspx) \\
+[1203 East Colorado Blvd \\
+Pasadena, CA 91106](https://www.google.com/maps/place/Vagabond+Inn+Executive+Pasadena/@34.14295,-118.1285663,16.04z/data=!4m2!3m1!1s0x80c2c35af3e55f97:0xc01313c2aa239006) \\
+Phone: [(626) 449-3170](tel:1-626-449-3170)
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Saga+Motor+Hotel,+East+Colorado+Boulevard,+Pasadena,+CA&amp;daddr=1216+E+California+Blvd,+California+Institute+of+Technology,+Pasadena,+CA+91125&amp;hl=en&amp;geocode=FU8HCQId5631-CEh1ik07OxnBCm5Is6SU8PCgDEh1ik07OxnBA%3BFfLeCAIdoIr1-CmbBpzKp8TCgDF6t1MLE5pudA&amp;aq=0&amp;oq=Sag&amp;sll=34.140953,-118.121438&amp;sspn=0.014652,0.018797&amp;dirflg=w&amp;doflg=ptk&amp;mra=prev&amp;ie=UTF8&amp;t=m&amp;ll=34.140953,-118.121438&amp;spn=0.014652,0.018797&amp;output=embed"></iframe>
+Walking route from the Vagabond to the Keck Center:
 
--->
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3302.1269292738302!2d-118.1277021342306!3d34.14309463058128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2c35af3e55f97%3A0xc01313c2aa239006!2sVagabond+Inn+Executive+Pasadena%2C+East+Colorado+Boulevard%2C+Pasadena%2C+CA!3m2!1d34.1463586!2d-118.12576689999999!4m5!1s0x80c2c3585bd4f6df%3A0x449b9be97833191d!2sKeck+Center%2C+Pasadena%2C+CA+91125!3m2!1d34.1398307!2d-118.1264633!5e0!3m2!1sen!2sus!4v1457716155860" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+Walking route from the Saga to the Keck Center:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6604.260218107121!2d-118.12604697180983!3d34.14301327232532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2c35392ce22b9%3A0x467ecec3429d621!2sSaga+Motor+Hotel%2C+East+Colorado+Boulevard%2C+Pasadena%2C+CA!3m2!1d34.146195999999996!2d-118.11679099999999!4m5!1s0x80c2c3585bd4f6df%3A0x449b9be97833191d!2sKeck+Center%2C+Pasadena%2C+CA+91125!3m2!1d34.1398307!2d-118.1264633!5e0!3m2!1sen!2sus!4v1457716236206" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Other hotels
 
