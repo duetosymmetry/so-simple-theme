@@ -19,13 +19,13 @@ page.
 * Kent Yagi (Princeton)
 * Vitor Cardoso (IST Lisbon)
 * Norbert Wex (MPIfR, Bonn)
-* Lam Hui<sup>†</sup> (Columbia)
+* Lam Hui* (Columbia)
 * Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
 * Jeremy Sakstein (DAMTP, Cambridge)
 * More TBD
 
-†=to be confirmed
+\*=to be confirmed
 
 ## Participants:
 
@@ -37,7 +37,7 @@ page.
 * Lavinia Heisenberg (ETH Zürich)
 * Bhuvnesh Jain (U Penn)
 * David Langlois (GRECO/IAP, Paris)
-* Paolo Pani<sup>†</sup> (Sapienza)
+* Paolo Pani* (Sapienza)
 * Levon Pogosian (SFU)
 * Ulrich Sperhake (DAMTP, Cambridge)
 * Chris Van Den Broeck (Nikhef)
@@ -45,4 +45,4 @@ page.
 * Miguel Zumalacárregui (Nordita)
 * More soon!
 
-†=to be confirmed
+\*=to be confirmed
