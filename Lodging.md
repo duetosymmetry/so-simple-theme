@@ -25,6 +25,12 @@ deadline.
   after the workshop).
 
 Phone to make a reservation, and ask for the "UTGR Workshop."
+Here is the information we've received on the rates:
+at the Saga (all after taxes):
+USD 81.65 for one person in a single room,
+USD 83.95 for one person in a double room,
+USD 89.70 for two people in a double room;
+at the Vagabond is USD 109.25 (after taxes).
 
 [Saga Motor Hotel](http://www.thesagamotorhotel.com/) \\
 [1633 E. Colorado Blvd. \\
