@@ -40,6 +40,7 @@ page.
 * Paolo Pani* (Sapienza)
 * Levon Pogosian (SFU)
 * Ulrich Sperhake (DAMTP, Cambridge)
+* Mark Trodden (U Penn)
 * Chris Van Den Broeck (Nikhef)
 * Nicolás Yunes (MSU)
 * Miguel Zumalacárregui (Nordita)
