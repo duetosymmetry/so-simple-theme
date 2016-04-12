@@ -14,15 +14,16 @@ If you will be flying into the area there are several ways to get to
 Pasadena.  Depending on where you will be staying may determine which
 mode of transportation is best for you. Several options include:
 
-* Fly-Away Bus with Metro Rail
-* Shuttle Services
-* Rental Car
-* Taxi or Limousine
+* [Fly-Away Bus with Metro Rail](#fly-away)
+* [Shuttle Services](#shuttle)
+* [Rental Car](#rental)
+* [Taxi or Limousine](#taxi)
 
 We highly recommend you read more information about getting to the
 Pasadena area and moving around Los Angeles in the
 [Caltech Transit Guide](http://caltechbikelab.blogspot.com/p/transit-guide-to-la.html).
 
+<a name="fly-away" />
 **Fly-Away Bus with MetroRail**: Go to Ground Transportation Level and
   look for the “Fly-Away Bus” sign along the curb. Take the bus that
   goes to Union Station. Once at Union Station you can buy your bus
@@ -38,6 +39,7 @@ Pasadena area and moving around Los Angeles in the
   [Caltech Transit Guide](http://caltechbikelab.blogspot.com/p/transit-guide-to-la.html)
   for more information and for Metro Rail hours of operation.
 
+<a name="shuttle" />
 **Shuttle Services**: If you decide to use a shuttle service then
   there are two commonly used ones:
   [Super Shuttle](http://www.supershuttle.com/) and
@@ -50,6 +52,7 @@ Pasadena area and moving around Los Angeles in the
 * [Caltech discount code #1](http://www.supershuttle.com/default.aspx?GC=L3F94)
 * [Caltech discount code #2](http://www.supershuttle.com/default.aspx?GC=MW26X)
 
+<a name="rental" />
 **Rental Car**: You can rent a car from most of the airports in the
   area. We encourage you to look for rates through the company and/or
   travel websites.
@@ -60,6 +63,7 @@ campus) that you can rent for the times that you actually need the
 vehicle. It is sometimes more cost-effective to use the usual rental
 car venues when needing a car for more than half of a day.
 
+<a name="taxi" />
 **Taxi or Limousine**: Hiring a taxi or limousine to go to/from Los
   Angeles International airport (LAX) is not recommended because of
   the long distance and often bad traffic conditions. Prices are much
@@ -70,4 +74,4 @@ car venues when needing a car for more than half of a day.
 # Information for drivers
 
 If you are driving to Pasadena you can find driving directions and
-maps [here](http://admissions.caltech.edu/visiting/getting_here).
+maps [here](http://www.admissions.caltech.edu/content/directions-and-maps).
