@@ -45,6 +45,7 @@ page.
 * Ulrich Sperhake (DAMTP, Cambridge)
 * Mark Trodden (U Penn)
 * Chris Van Den Broeck (Nikhef)
+* Helvi Witek (Nottingham)
 * Nicolás Yunes (MSU)
 * Miguel Zumalacárregui (Nordita)
 * More soon!
