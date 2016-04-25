@@ -32,6 +32,7 @@ page.
 * Niayesh Afshordi (Perimeter Institute)
 * Enrico Barausse (IAP, Paris)
 * Alexandre Barreira (MPA Garching)
+* Alessandra Buonanno* (AEI)
 * Clare Burrage (Nottingham)
 * Claudia de Rham (CWRU)
 * Davide Gerosa (DAMTP, Cambridge)
