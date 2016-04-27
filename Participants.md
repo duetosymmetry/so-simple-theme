@@ -43,6 +43,7 @@ page.
 * David Langlois (GRECO/IAP, Paris)
 * Paolo Pani* (Sapienza)
 * Levon Pogosian (SFU)
+* Noah Sennett (UMD)
 * Ulrich Sperhake (DAMTP, Cambridge)
 * Mark Trodden (U Penn)
 * Chris Van Den Broeck (Nikhef)
