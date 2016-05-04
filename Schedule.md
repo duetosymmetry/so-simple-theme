@@ -109,4 +109,17 @@ Coming soon...
       <td style="text-align: left"> </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center" colspan="4"></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Evening</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left">Workshop banquet</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
 </table>
