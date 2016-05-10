@@ -62,13 +62,13 @@ Coming soon...
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
       <td style="text-align: left"><strong>Bumpy black holes</strong></td>
-      <td style="text-align: left">More TBD</td>
+      <td style="text-align: left">Clare Burrage,</td>
     </tr>
     <tr>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
       <td style="text-align: left">Vitor Cardoso</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">More TBD</td>
     </tr>
   </tbody>
   <tbody>
