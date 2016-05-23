@@ -17,11 +17,12 @@ develop a sort of "lingua franca" for those working on cosmological
 and strong-field tests of gravity, the eventual aim being the ability
 to usefully interpret observational results across the two fields.
 
-## Invited speakers
+## Invited lecturers
 
-The provisional list of invited speakers:
+We will have lectures from:
 
 * Tessa Baker (U Penn)
+* Clare Burrage (Nottingham)
 * Vitor Cardoso (IST Lisbon)
 * Lam Hui (Columbia)
 * Kazuya Koyama (ICG Portsmouth)
@@ -30,6 +31,8 @@ The provisional list of invited speakers:
 * Thomas Sotiriou (Nottingham)
 * Norbert Wex (MPIfR, Bonn)
 * Kent Yagi (Princeton)
+
+Please see [the schedule]({{ site.url }}/Schedule/) for more details.
 
 ## Organizing committee
 

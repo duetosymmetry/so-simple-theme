@@ -22,10 +22,8 @@ page.
 * Lam Hui (Columbia)
 * Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
+* Clare Burrage (Nottingham)
 * Jeremy Sakstein (DAMTP, Cambridge)
-* More TBD
-
-\*=to be confirmed
 
 ## Participants:
 
@@ -33,7 +31,6 @@ page.
 * Enrico Barausse (IAP, Paris)
 * Alexandre Barreira (MPA Garching)
 * Alessandra Buonanno* (AEI)
-* Clare Burrage (Nottingham)
 * Claudia de Rham (CWRU)
 * Davide Gerosa (DAMTP, Cambridge)
 * Leonardo Gualtieri (Sapienza)
