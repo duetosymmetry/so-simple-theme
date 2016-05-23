@@ -19,7 +19,7 @@ page.
 * Kent Yagi (Princeton)
 * Vitor Cardoso (IST Lisbon)
 * Norbert Wex (MPIfR, Bonn)
-* Lam Hui* (Columbia)
+* Lam Hui (Columbia)
 * Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
 * Jeremy Sakstein (DAMTP, Cambridge)
