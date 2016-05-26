@@ -38,7 +38,7 @@ page.
 * Bhuvnesh Jain (U Penn)
 * Marc Kamionkowski (Johns Hopkins)
 * David Langlois (GRECO/IAP, Paris)
-* Paolo Pani* (Sapienza)
+* Paolo Pani (Sapienza)
 * Levon Pogosian (SFU)
 * Noah Sennett (UMD)
 * Ulrich Sperhake (DAMTP, Cambridge)
