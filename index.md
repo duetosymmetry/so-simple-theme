@@ -27,7 +27,7 @@ We will have lectures from:
 * Lam Hui (Columbia)
 * Kazuya Koyama (ICG Portsmouth)
 * Ira Rothstein (Carnegie Mellon)
-* Jeremy Sakstein (DAMTP, Cambridge)
+* Jeremy Sakstein (ICG Portsmouth)
 * Thomas Sotiriou (Nottingham)
 * Norbert Wex (MPIfR, Bonn)
 * Kent Yagi (Princeton)

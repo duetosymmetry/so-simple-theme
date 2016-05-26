@@ -23,7 +23,7 @@ page.
 * Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
 * Clare Burrage (Nottingham)
-* Jeremy Sakstein (DAMTP, Cambridge)
+* Jeremy Sakstein (ICG Portsmouth)
 
 ## Participants:
 
