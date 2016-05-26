@@ -53,7 +53,7 @@ Coming soon...
       <td style="text-align: left"><strong>Proposed overlap scenarios</strong></td>
     </tr>
     <tr>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left"> 9:00am — 10:30am </td>
       <td style="text-align: left">Ira Rothstein</td>
       <td style="text-align: left">Kent Yagi</td>
       <td style="text-align: left">Clare Burrage,</td>
@@ -73,7 +73,7 @@ Coming soon...
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: center" colspan="4">Coffee Break</td>
+      <td style="text-align: center" colspan="4">Coffee Break 10:30am — 11:00am </td>
     </tr>
   </tbody>
   <tbody>
@@ -84,7 +84,7 @@ Coming soon...
       <td style="text-align: left"><strong>Discussion</strong></td>
     </tr>
     <tr>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left"> 11:00am — 12:30pm </td>
       <td style="text-align: left">Tessa Baker</td>
       <td style="text-align: left">Lam Hui</td>
       <td style="text-align: left">Thomas Sotiriou</td>
@@ -92,7 +92,7 @@ Coming soon...
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: center" colspan="4">Lunch Break</td>
+      <td style="text-align: center" colspan="4">Lunch Break 12:30pm — 2:30pm</td>
     </tr>
   </tbody>
   <tbody>
@@ -103,7 +103,7 @@ Coming soon...
       <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left"> 2:30pm — 4:00pm </td>
       <td style="text-align: left">Norbert Wex</td>
       <td style="text-align: left">Kazuya Koyama</td>
       <td style="text-align: left"> </td>
@@ -119,6 +119,12 @@ Coming soon...
       <td style="text-align: left">Evening</td>
       <td style="text-align: left"></td>
       <td style="text-align: left">Workshop banquet</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"> 6:00pm — 9:00pm </td>
       <td style="text-align: left"> </td>
     </tr>
   </tbody>
