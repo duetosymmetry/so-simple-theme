@@ -22,12 +22,12 @@ page.
 * Lam Hui (Columbia)
 * Thomas Sotiriou (Nottingham)
 * Kazuya Koyama (ICG Portsmouth)
+* Niayesh Afshordi (Perimeter Institute)
 * Clare Burrage (Nottingham)
 * Jeremy Sakstein (ICG Portsmouth)
 
 ## Participants:
 
-* Niayesh Afshordi (Perimeter Institute)
 * Enrico Barausse (IAP, Paris)
 * Alexandre Barreira (MPA Garching)
 * Alessandra Buonanno* (AEI)

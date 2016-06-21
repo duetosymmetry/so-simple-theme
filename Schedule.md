@@ -56,18 +56,24 @@ Coming soon...
       <td style="text-align: left"> 9:00am — 10:30am </td>
       <td style="text-align: left">Ira Rothstein</td>
       <td style="text-align: left">Kent Yagi</td>
-      <td style="text-align: left">Clare Burrage,</td>
+      <td style="text-align: left">Niayesh Afshordi,</td>
     </tr>
     <tr>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
       <td style="text-align: left"><strong>Bumpy black holes</strong></td>
-      <td style="text-align: left">Jeremy Sakstein,</td>
+      <td style="text-align: left">Clare Burrage,</td>
     </tr>
     <tr>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
       <td style="text-align: left">Vitor Cardoso</td>
+      <td style="text-align: left">Jeremy Sakstein,</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
       <td style="text-align: left">Thomas Sotiriou, more TBD</td>
     </tr>
   </tbody>

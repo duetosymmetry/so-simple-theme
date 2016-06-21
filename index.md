@@ -21,6 +21,7 @@ to usefully interpret observational results across the two fields.
 
 We will have lectures from:
 
+* Niayesh Afshordi (Perimeter Institute)
 * Tessa Baker (U Penn)
 * Clare Burrage (Nottingham)
 * Vitor Cardoso (IST Lisbon)
