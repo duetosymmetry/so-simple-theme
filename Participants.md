@@ -30,7 +30,7 @@ page.
 
 * Enrico Barausse (IAP, Paris)
 * Alexandre Barreira (MPA Garching)
-* Alessandra Buonanno* (AEI)
+* Alessandra Buonanno (AEI)
 * Claudia de Rham (CWRU)
 * Davide Gerosa (DAMTP, Cambridge)
 * Leonardo Gualtieri (Sapienza)
@@ -47,6 +47,3 @@ page.
 * Helvi Witek (Nottingham)
 * Nicolás Yunes (MSU)
 * Miguel Zumalacárregui (Nordita)
-* More soon!
-
-\*=to be confirmed
