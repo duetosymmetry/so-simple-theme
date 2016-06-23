@@ -34,7 +34,6 @@ page.
 * Claudia de Rham (CWRU)
 * Davide Gerosa (DAMTP, Cambridge)
 * Leonardo Gualtieri (Sapienza)
-* Lavinia Heisenberg (ETH Zürich)
 * Bhuvnesh Jain (U Penn)
 * Marc Kamionkowski (Johns Hopkins)
 * David Langlois (GRECO/IAP, Paris)
