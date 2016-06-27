@@ -28,7 +28,6 @@ page.
 
 ## Participants:
 
-* Enrico Barausse (IAP, Paris)
 * Alexandre Barreira (MPA Garching)
 * Alessandra Buonanno (AEI)
 * Claudia de Rham (CWRU)
