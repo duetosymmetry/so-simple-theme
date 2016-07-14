@@ -8,8 +8,6 @@ image:
   feature:
 ---
 
-Coming soon...
-
 <!--
 |---
 | Time | Tue. July 19 | Weds. July 20 | Thu. July 21
@@ -45,6 +43,20 @@ Coming soon...
       <th style="text-align: left">Thu. July 21</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"></td>
+      <td style="text-align: left">Registration/coffee</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"></td>
+      <td style="text-align: left">8:30am — 9:00am</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
+    </tr>
+  </tbody>
   <tbody>
     <tr>
       <td style="text-align: left">Morning 1</td>
