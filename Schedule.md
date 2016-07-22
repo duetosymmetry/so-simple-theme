@@ -8,28 +8,6 @@ image:
   feature:
 ---
 
-<!--
-|---
-| Time | Tue. July 19 | Weds. July 20 | Thu. July 21
-|:-|:-|:-|:-
-| Morning 1 | **Intro to EFT**  | **PPE**               | **Proposed overlap scenarios**
-|           | Ira Rothstein     | Kent Yagi             | TBD
-|           |                   | **Bumpy black holes** |
-|           |                   | Vitor Cardoso         |
-|---
-| Coffee Break | | |
-|---
-| Morning 2 | **Cosmological frameworks** | **Cosmological observables** | **Discussion**
-|           | Tessa Baker                 | TBD                          | TBD
-|---
-| Lunch Break
-|---
-| Afternoon 1 | **PPN and PPK frameworks** | **Screening** |
-|             | TBD                        | TBD           |
-|===
-{: rules="groups"}
-
--->
 
 <table rules="groups">
   <colgroup>
