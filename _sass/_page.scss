@@ -177,6 +177,7 @@ span + .entry-title {
 		@include span-columns(9.5);
 	}
 	/* nice link underlines */
+  td > a,
   p > a,
 	li > a {
 		border-bottom: 1px dotted lighten($link-color, 50);
