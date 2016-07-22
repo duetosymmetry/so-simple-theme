@@ -8,6 +8,7 @@ image:
   feature:
 ---
 
+Click on a linked speaker's name to see their slides.
 
 <table rules="groups">
   <colgroup>
@@ -23,14 +24,8 @@ image:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left"></td>
-      <td style="text-align: left">Registration/coffee</td>
-      <td style="text-align: left"></td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td style="text-align: left"></td>
       <td style="text-align: left">8:30am — 9:00am</td>
+      <td style="text-align: left">Registration/coffee</td>
       <td style="text-align: left"></td>
       <td style="text-align: left"></td>
     </tr>
@@ -45,26 +40,26 @@ image:
     <tr>
       <td style="text-align: left"> 9:00am — 10:30am </td>
       <td style="text-align: left">Ira Rothstein</td>
-      <td style="text-align: left">Kent Yagi</td>
-      <td style="text-align: left">Niayesh Afshordi,</td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Yagi.pdf">Kent Yagi</a></td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Afshordi.pdf">Niayesh Afshordi</a></td>
     </tr>
     <tr>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
-      <td style="text-align: left"><strong>Bumpy black holes</strong></td>
-      <td style="text-align: left">Clare Burrage,</td>
+      <td style="text-align: left"><strong>Black hole mimickers</strong></td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Burrage.pdf">Clare Burrage</a></td>
     </tr>
     <tr>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
-      <td style="text-align: left">Vitor Cardoso</td>
-      <td style="text-align: left">Jeremy Sakstein,</td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Cardoso.pdf">Vitor Cardoso</a></td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Sakstein.pdf">Jeremy Sakstein</a></td>
     </tr>
     <tr>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
-      <td style="text-align: left">Thomas Sotiriou, more TBD</td>
+      <td style="text-align: left">Thomas Sotiriou</td>
     </tr>
   </tbody>
   <tbody>
@@ -82,7 +77,7 @@ image:
     <tr>
       <td style="text-align: left"> 11:00am — 12:30pm </td>
       <td style="text-align: left">Tessa Baker</td>
-      <td style="text-align: left">Lam Hui</td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Hui.pdf">Lam Hui</a></td>
       <td style="text-align: left">Thomas Sotiriou</td>
     </tr>
   </tbody>
@@ -114,7 +109,7 @@ image:
     <tr>
       <td style="text-align: left">Evening</td>
       <td style="text-align: left"></td>
-      <td style="text-align: left">Workshop banquet</td>
+      <td style="text-align: left">Workshop dinner</td>
       <td style="text-align: left"> </td>
     </tr>
     <tr>
