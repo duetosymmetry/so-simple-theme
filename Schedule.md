@@ -76,7 +76,7 @@ Click on a linked speaker's name to see their slides.
     </tr>
     <tr>
       <td style="text-align: left"> 11:00am — 12:30pm </td>
-      <td style="text-align: left">Tessa Baker</td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Baker.pdf">Tessa Baker</a></td>
       <td style="text-align: left"><a href="{{ site.url }}/files/Hui.pdf">Lam Hui</a></td>
       <td style="text-align: left">Thomas Sotiriou</td>
     </tr>
