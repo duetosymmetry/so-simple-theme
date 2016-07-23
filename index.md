@@ -17,6 +17,12 @@ develop a sort of "lingua franca" for those working on cosmological
 and strong-field tests of gravity, the eventual aim being the ability
 to usefully interpret observational results across the two fields.
 
+<figure>
+  <a href="{{ site.url }}/Photos/" >
+  <img src="{{ site.url }}/images/photos/group_small.jpg" />
+  </a>
+</figure>
+
 ## Invited lecturers
 
 We will have lectures from:
