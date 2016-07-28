@@ -59,7 +59,7 @@ Click on a linked speaker's name to see their slides.
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
       <td style="text-align: left"> </td>
-      <td style="text-align: left">Thomas Sotiriou</td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Sotiriou.pdf">Thomas Sotiriou</a></td>
     </tr>
   </tbody>
   <tbody>
