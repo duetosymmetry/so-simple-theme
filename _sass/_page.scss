@@ -185,6 +185,12 @@ span + .entry-title {
 			border-bottom-style: solid;
 		}
 	}
+
+  /* change the spacing of ul's */
+  ul {
+  	padding-left: 1em;
+  }
+
 }
 
 /*
@@ -237,7 +243,7 @@ span + .entry-title {
 	border-radius: $border-radius;
   ul {
   	list-style-type: none;
-  	padding-left: 0;
+  	padding-left: 1.5em;
   }
   li {
     @include font-size(16,no,18);
