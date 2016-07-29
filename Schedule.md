@@ -95,7 +95,7 @@ Click on a linked speaker's name to see their slides.
     </tr>
     <tr>
       <td style="text-align: left"> 2:30pm — 4:00pm </td>
-      <td style="text-align: left">Norbert Wex</td>
+      <td style="text-align: left"><a href="{{ site.url }}/files/Wex.pdf">Norbert Wex</a></td>
       <td style="text-align: left"><a href="{{ site.url }}/files/Koyama.pdf">Kazuya Koyama</a></td>
       <td style="text-align: left"> </td>
     </tr>
